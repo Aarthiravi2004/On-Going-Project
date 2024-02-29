@@ -103,7 +103,6 @@ body{
 }
 .signup-box form {
     position: relative;
-    inset: 4px;
     background: #222;
     padding: 40px 40px;
     border-radius: 8px;
@@ -209,3 +208,4 @@ body{
     margin-top:10px;
     color:black;
 }
+
